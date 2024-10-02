@@ -19,3 +19,6 @@
 
 ![Screenshot (501)](https://github.com/user-attachments/assets/18e47493-f959-4c18-a186-f917376987f0)
 *After update*<br /><br />
+
+<p>To execute the frontend and backend, go to their respective folders and in the terminal, type</p>
+npm start
