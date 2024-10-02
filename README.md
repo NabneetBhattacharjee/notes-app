@@ -15,7 +15,7 @@
 *Notes app*<br /><br />
 
 ![Screenshot (500)](https://github.com/user-attachments/assets/84d4a60c-68ae-42a0-b8da-5b359c6863f0)
-<caption>A note about to be updated</caption>
+*A note about to be updated*<br />
 
 ![Screenshot (501)](https://github.com/user-attachments/assets/18e47493-f959-4c18-a186-f917376987f0)
 <caption>After update</caption>
