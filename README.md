@@ -1,12 +1,12 @@
 <h1>Notes app</h1>
 
-<p>I have created a small notes app to demonstrate CRUD (<b>C</b>reate, Read, Update and Delete) functionalities in the form of a small full stack application.</p>
+<p>I have created a small notes app to demonstrate <b>CRUD</b> (<b>C</b>reate, <b>R</b>ead, <b>U</b>pdate and <b>D</b>elete) functionalities in the form of a small full stack application.</p>
 <p>Following are the tech stack used:
 <ul>
-  <li>Frontend: React, TypeScript</li>
-  <li>Backend: Node.js, TypeScript</li>
-  <li>Styling: CSS</li>
-  <li>Database used: PostgresSQL</li>
+  <li><b>Frontend</b>: React, TypeScript</li>
+  <li><b>Backend</b>: Node.js, TypeScript</li>
+  <li><b>Styling</b>: CSS</li>
+  <li><b>Database used</b>: PostgresSQL</li>
 </ul></p>
 
 <p>Here are the screenshots:</p>
