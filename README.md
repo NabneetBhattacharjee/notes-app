@@ -11,9 +11,8 @@
 
 <p>Here are the screenshots:</p>
 
-<p>![Screenshot (499)](https://github.com/user-attachments/assets/cc21880c-8a3c-4fd3-ab77-7db7a1f9af46)
-<caption>Notes app</caption>
-</p>
+![Screenshot (499)](https://github.com/user-attachments/assets/cc21880c-8a3c-4fd3-ab77-7db7a1f9af46)
+<caption>Notes app</caption><br>
 
 ![Screenshot (500)](https://github.com/user-attachments/assets/84d4a60c-68ae-42a0-b8da-5b359c6863f0)
 <caption>A note about to be updated</caption>
